@@ -52,10 +52,11 @@ try:
                                                             vm_name=vm.name, 
                                                             vm=vm)
 
-            # metrics = utils.get_vm_metrics(monitor_client=monitor_client,
-            #                                  subscription_id=subscription_id, 
-            #                                  resource_group_name=resource_group.name, 
-            #                                  vm_name=vm.name)
+            metrics = utils.get_vm_metrics(monitor_client=monitor_client,
+                                            subscription_id=subscription_id, 
+                                            resource_group_name=resource_group.name, 
+                                            vm_name=vm.name,
+                                            vm_size=vm.hardware_profile.vm_size)
             
             vm_details = {
                 "VM_Name": vm.name,
@@ -69,12 +70,14 @@ try:
                 "Data_Disk_Names": data_disk_names,
                 "Data_Disk_Sizes": data_disk_sizes,
                 "Public_IP_Address": public_ip_address,
-                # "CPU_Min": metrics["CPU_Min"],
-                # "CPU_Max": metrics["CPU_Max"],
-                # "CPU_Avg": metrics["CPU_Avg"],
-                # "Memory_Min": metrics["Memory_Min"],
-                # "Memory_Max": metrics["Memory_Max"],
-                # "Memory_Avg": metrics["Memory_Avg"],
+                "CPU": metrics["CPU"],
+                "CPU_Min": metrics["CPU_min"],
+                "CPU_Max": metrics["CPU_max"],
+                "CPU_Avg": metrics["CPU_avg"],
+                "Memory_Min": metrics["Mem_min"],
+                "Memory_Max": metrics["Mem_max"],
+                "Memory_Avg": metrics["Mem_avg"],
+                "Total_Memory_GB": metrics["Mem"],
             }
 
             vm_details_list.append(vm_details)

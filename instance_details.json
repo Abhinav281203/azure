@@ -1,0 +1,3310 @@
+{
+    "Standard_F2s_v2": {
+        "vCPUs": 2,
+        "memoryMB": 4096
+    },
+    "Standard_F4s_v2": {
+        "vCPUs": 4,
+        "memoryMB": 8192
+    },
+    "Standard_F8s_v2": {
+        "vCPUs": 8,
+        "memoryMB": 16384
+    },
+    "Standard_F16s_v2": {
+        "vCPUs": 16,
+        "memoryMB": 32768
+    },
+    "Standard_F32s_v2": {
+        "vCPUs": 32,
+        "memoryMB": 65536
+    },
+    "Standard_F48s_v2": {
+        "vCPUs": 48,
+        "memoryMB": 98304
+    },
+    "Standard_F64s_v2": {
+        "vCPUs": 64,
+        "memoryMB": 131072
+    },
+    "Standard_F72s_v2": {
+        "vCPUs": 72,
+        "memoryMB": 147456
+    },
+    "Standard_DC2as_v5": {
+        "vCPUs": 2,
+        "memoryMB": 8192
+    },
+    "Standard_DC4as_v5": {
+        "vCPUs": 4,
+        "memoryMB": 16384
+    },
+    "Standard_DC8as_v5": {
+        "vCPUs": 8,
+        "memoryMB": 32768
+    },
+    "Standard_DC16as_v5": {
+        "vCPUs": 16,
+        "memoryMB": 65536
+    },
+    "Standard_DC32as_v5": {
+        "vCPUs": 32,
+        "memoryMB": 131072
+    },
+    "Standard_DC48as_v5": {
+        "vCPUs": 48,
+        "memoryMB": 196608
+    },
+    "Standard_DC64as_v5": {
+        "vCPUs": 64,
+        "memoryMB": 262144
+    },
+    "Standard_DC96as_v5": {
+        "vCPUs": 96,
+        "memoryMB": 393216
+    },
+    "Standard_DC2ads_v5": {
+        "vCPUs": 2,
+        "memoryMB": 8192
+    },
+    "Standard_DC4ads_v5": {
+        "vCPUs": 4,
+        "memoryMB": 16384
+    },
+    "Standard_DC8ads_v5": {
+        "vCPUs": 8,
+        "memoryMB": 32768
+    },
+    "Standard_DC16ads_v5": {
+        "vCPUs": 16,
+        "memoryMB": 65536
+    },
+    "Standard_DC32ads_v5": {
+        "vCPUs": 32,
+        "memoryMB": 131072
+    },
+    "Standard_DC48ads_v5": {
+        "vCPUs": 48,
+        "memoryMB": 196608
+    },
+    "Standard_DC64ads_v5": {
+        "vCPUs": 64,
+        "memoryMB": 262144
+    },
+    "Standard_DC96ads_v5": {
+        "vCPUs": 96,
+        "memoryMB": 393216
+    },
+    "Standard_EC2as_v5": {
+        "vCPUs": 2,
+        "memoryMB": 16384
+    },
+    "Standard_EC4as_v5": {
+        "vCPUs": 4,
+        "memoryMB": 32768
+    },
+    "Standard_EC8as_v5": {
+        "vCPUs": 8,
+        "memoryMB": 65536
+    },
+    "Standard_EC16as_v5": {
+        "vCPUs": 16,
+        "memoryMB": 131072
+    },
+    "Standard_EC20as_v5": {
+        "vCPUs": 20,
+        "memoryMB": 163840
+    },
+    "Standard_EC32as_v5": {
+        "vCPUs": 32,
+        "memoryMB": 196608
+    },
+    "Standard_EC48as_v5": {
+        "vCPUs": 48,
+        "memoryMB": 393216
+    },
+    "Standard_EC64as_v5": {
+        "vCPUs": 64,
+        "memoryMB": 524288
+    },
+    "Standard_EC96as_v5": {
+        "vCPUs": 96,
+        "memoryMB": 688128
+    },
+    "Standard_EC96ias_v5": {
+        "vCPUs": 96,
+        "memoryMB": 688128
+    },
+    "Standard_EC2ads_v5": {
+        "vCPUs": 2,
+        "memoryMB": 16384
+    },
+    "Standard_EC4ads_v5": {
+        "vCPUs": 4,
+        "memoryMB": 32768
+    },
+    "Standard_EC8ads_v5": {
+        "vCPUs": 8,
+        "memoryMB": 65536
+    },
+    "Standard_EC16ads_v5": {
+        "vCPUs": 16,
+        "memoryMB": 131072
+    },
+    "Standard_EC20ads_v5": {
+        "vCPUs": 20,
+        "memoryMB": 163840
+    },
+    "Standard_EC32ads_v5": {
+        "vCPUs": 32,
+        "memoryMB": 196608
+    },
+    "Standard_EC48ads_v5": {
+        "vCPUs": 48,
+        "memoryMB": 393216
+    },
+    "Standard_EC64ads_v5": {
+        "vCPUs": 64,
+        "memoryMB": 524288
+    },
+    "Standard_EC96ads_v5": {
+        "vCPUs": 96,
+        "memoryMB": 688128
+    },
+    "Standard_EC96iads_v5": {
+        "vCPUs": 96,
+        "memoryMB": 688128
+    },
+    "Standard_DC4as_cc_v5": {
+        "vCPUs": 4,
+        "memoryMB": 16384
+    },
+    "Standard_DC8as_cc_v5": {
+        "vCPUs": 8,
+        "memoryMB": 32768
+    },
+    "Standard_DC16as_cc_v5": {
+        "vCPUs": 16,
+        "memoryMB": 65536
+    },
+    "Standard_DC32as_cc_v5": {
+        "vCPUs": 32,
+        "memoryMB": 131072
+    },
+    "Standard_DC48as_cc_v5": {
+        "vCPUs": 48,
+        "memoryMB": 196608
+    },
+    "Standard_DC64as_cc_v5": {
+        "vCPUs": 64,
+        "memoryMB": 262144
+    },
+    "Standard_DC96as_cc_v5": {
+        "vCPUs": 96,
+        "memoryMB": 393216
+    },
+    "Standard_DC4ads_cc_v5": {
+        "vCPUs": 4,
+        "memoryMB": 16384
+    },
+    "Standard_DC8ads_cc_v5": {
+        "vCPUs": 8,
+        "memoryMB": 32768
+    },
+    "Standard_DC16ads_cc_v5": {
+        "vCPUs": 16,
+        "memoryMB": 65536
+    },
+    "Standard_DC32ads_cc_v5": {
+        "vCPUs": 32,
+        "memoryMB": 131072
+    },
+    "Standard_DC48ads_cc_v5": {
+        "vCPUs": 48,
+        "memoryMB": 196608
+    },
+    "Standard_DC64ads_cc_v5": {
+        "vCPUs": 64,
+        "memoryMB": 262144
+    },
+    "Standard_DC96ads_cc_v5": {
+        "vCPUs": 96,
+        "memoryMB": 393216
+    },
+    "Standard_EC4as_cc_v5": {
+        "vCPUs": 4,
+        "memoryMB": 32768
+    },
+    "Standard_EC8as_cc_v5": {
+        "vCPUs": 8,
+        "memoryMB": 65536
+    },
+    "Standard_EC16as_cc_v5": {
+        "vCPUs": 16,
+        "memoryMB": 131072
+    },
+    "Standard_EC20as_cc_v5": {
+        "vCPUs": 20,
+        "memoryMB": 163840
+    },
+    "Standard_EC32as_cc_v5": {
+        "vCPUs": 32,
+        "memoryMB": 196608
+    },
+    "Standard_EC48as_cc_v5": {
+        "vCPUs": 48,
+        "memoryMB": 393216
+    },
+    "Standard_EC64as_cc_v5": {
+        "vCPUs": 64,
+        "memoryMB": 524288
+    },
+    "Standard_EC96as_cc_v5": {
+        "vCPUs": 96,
+        "memoryMB": 688128
+    },
+    "Standard_EC4ads_cc_v5": {
+        "vCPUs": 4,
+        "memoryMB": 32768
+    },
+    "Standard_EC8ads_cc_v5": {
+        "vCPUs": 8,
+        "memoryMB": 65536
+    },
+    "Standard_EC16ads_cc_v5": {
+        "vCPUs": 16,
+        "memoryMB": 131072
+    },
+    "Standard_EC20ads_cc_v5": {
+        "vCPUs": 20,
+        "memoryMB": 163840
+    },
+    "Standard_EC32ads_cc_v5": {
+        "vCPUs": 32,
+        "memoryMB": 196608
+    },
+    "Standard_EC48ads_cc_v5": {
+        "vCPUs": 48,
+        "memoryMB": 393216
+    },
+    "Standard_EC64ads_cc_v5": {
+        "vCPUs": 64,
+        "memoryMB": 524288
+    },
+    "Standard_EC96ads_cc_v5": {
+        "vCPUs": 96,
+        "memoryMB": 688128
+    },
+    "Standard_B1ls": {
+        "vCPUs": 1,
+        "memoryMB": 512
+    },
+    "Standard_B1ms": {
+        "vCPUs": 1,
+        "memoryMB": 2048
+    },
+    "Standard_B1s": {
+        "vCPUs": 1,
+        "memoryMB": 1024
+    },
+    "Standard_B2ms": {
+        "vCPUs": 2,
+        "memoryMB": 8192
+    },
+    "Standard_B2s": {
+        "vCPUs": 2,
+        "memoryMB": 4096
+    },
+    "Standard_B4ms": {
+        "vCPUs": 4,
+        "memoryMB": 16384
+    },
+    "Standard_B8ms": {
+        "vCPUs": 8,
+        "memoryMB": 32768
+    },
+    "Standard_B12ms": {
+        "vCPUs": 12,
+        "memoryMB": 49152
+    },
+    "Standard_B16ms": {
+        "vCPUs": 16,
+        "memoryMB": 65536
+    },
+    "Standard_B20ms": {
+        "vCPUs": 20,
+        "memoryMB": 81920
+    },
+    "Standard_E2_v4": {
+        "vCPUs": 2,
+        "memoryMB": 16384
+    },
+    "Standard_E4_v4": {
+        "vCPUs": 4,
+        "memoryMB": 32768
+    },
+    "Standard_E8_v4": {
+        "vCPUs": 8,
+        "memoryMB": 65536
+    },
+    "Standard_E16_v4": {
+        "vCPUs": 16,
+        "memoryMB": 131072
+    },
+    "Standard_E20_v4": {
+        "vCPUs": 20,
+        "memoryMB": 163840
+    },
+    "Standard_E32_v4": {
+        "vCPUs": 32,
+        "memoryMB": 262144
+    },
+    "Standard_E48_v4": {
+        "vCPUs": 48,
+        "memoryMB": 393216
+    },
+    "Standard_E64_v4": {
+        "vCPUs": 64,
+        "memoryMB": 516096
+    },
+    "Standard_E2d_v4": {
+        "vCPUs": 2,
+        "memoryMB": 16384
+    },
+    "Standard_E4d_v4": {
+        "vCPUs": 4,
+        "memoryMB": 32768
+    },
+    "Standard_E8d_v4": {
+        "vCPUs": 8,
+        "memoryMB": 65536
+    },
+    "Standard_E16d_v4": {
+        "vCPUs": 16,
+        "memoryMB": 131072
+    },
+    "Standard_E20d_v4": {
+        "vCPUs": 20,
+        "memoryMB": 163840
+    },
+    "Standard_E32d_v4": {
+        "vCPUs": 32,
+        "memoryMB": 262144
+    },
+    "Standard_E48d_v4": {
+        "vCPUs": 48,
+        "memoryMB": 393216
+    },
+    "Standard_E64d_v4": {
+        "vCPUs": 64,
+        "memoryMB": 516096
+    },
+    "Standard_E2s_v4": {
+        "vCPUs": 2,
+        "memoryMB": 16384
+    },
+    "Standard_E4-2s_v4": {
+        "vCPUs": 4,
+        "memoryMB": 32768
+    },
+    "Standard_E4s_v4": {
+        "vCPUs": 4,
+        "memoryMB": 32768
+    },
+    "Standard_E8-2s_v4": {
+        "vCPUs": 8,
+        "memoryMB": 65536
+    },
+    "Standard_E8-4s_v4": {
+        "vCPUs": 8,
+        "memoryMB": 65536
+    },
+    "Standard_E8s_v4": {
+        "vCPUs": 8,
+        "memoryMB": 65536
+    },
+    "Standard_E16-4s_v4": {
+        "vCPUs": 16,
+        "memoryMB": 131072
+    },
+    "Standard_E16-8s_v4": {
+        "vCPUs": 16,
+        "memoryMB": 131072
+    },
+    "Standard_E16s_v4": {
+        "vCPUs": 16,
+        "memoryMB": 131072
+    },
+    "Standard_E20s_v4": {
+        "vCPUs": 20,
+        "memoryMB": 163840
+    },
+    "Standard_E32-8s_v4": {
+        "vCPUs": 32,
+        "memoryMB": 262144
+    },
+    "Standard_E32-16s_v4": {
+        "vCPUs": 32,
+        "memoryMB": 262144
+    },
+    "Standard_E32s_v4": {
+        "vCPUs": 32,
+        "memoryMB": 262144
+    },
+    "Standard_E48s_v4": {
+        "vCPUs": 48,
+        "memoryMB": 393216
+    },
+    "Standard_E64-16s_v4": {
+        "vCPUs": 64,
+        "memoryMB": 516096
+    },
+    "Standard_E64-32s_v4": {
+        "vCPUs": 64,
+        "memoryMB": 516096
+    },
+    "Standard_E64s_v4": {
+        "vCPUs": 64,
+        "memoryMB": 516096
+    },
+    "Standard_E80is_v4": {
+        "vCPUs": 80,
+        "memoryMB": 516096
+    },
+    "Standard_E2ds_v4": {
+        "vCPUs": 2,
+        "memoryMB": 16384
+    },
+    "Standard_E4-2ds_v4": {
+        "vCPUs": 4,
+        "memoryMB": 32768
+    },
+    "Standard_E4ds_v4": {
+        "vCPUs": 4,
+        "memoryMB": 32768
+    },
+    "Standard_E8-2ds_v4": {
+        "vCPUs": 8,
+        "memoryMB": 65536
+    },
+    "Standard_E8-4ds_v4": {
+        "vCPUs": 8,
+        "memoryMB": 65536
+    },
+    "Standard_E8ds_v4": {
+        "vCPUs": 8,
+        "memoryMB": 65536
+    },
+    "Standard_E16-4ds_v4": {
+        "vCPUs": 16,
+        "memoryMB": 131072
+    },
+    "Standard_E16-8ds_v4": {
+        "vCPUs": 16,
+        "memoryMB": 131072
+    },
+    "Standard_E16ds_v4": {
+        "vCPUs": 16,
+        "memoryMB": 131072
+    },
+    "Standard_E20ds_v4": {
+        "vCPUs": 20,
+        "memoryMB": 163840
+    },
+    "Standard_E32-8ds_v4": {
+        "vCPUs": 32,
+        "memoryMB": 262144
+    },
+    "Standard_E32-16ds_v4": {
+        "vCPUs": 32,
+        "memoryMB": 262144
+    },
+    "Standard_E32ds_v4": {
+        "vCPUs": 32,
+        "memoryMB": 262144
+    },
+    "Standard_E48ds_v4": {
+        "vCPUs": 48,
+        "memoryMB": 393216
+    },
+    "Standard_E64-16ds_v4": {
+        "vCPUs": 64,
+        "memoryMB": 516096
+    },
+    "Standard_E64-32ds_v4": {
+        "vCPUs": 64,
+        "memoryMB": 516096
+    },
+    "Standard_E64ds_v4": {
+        "vCPUs": 64,
+        "memoryMB": 516096
+    },
+    "Standard_E80ids_v4": {
+        "vCPUs": 80,
+        "memoryMB": 516096
+    },
+    "Standard_D2d_v4": {
+        "vCPUs": 2,
+        "memoryMB": 8192
+    },
+    "Standard_D4d_v4": {
+        "vCPUs": 4,
+        "memoryMB": 16384
+    },
+    "Standard_D8d_v4": {
+        "vCPUs": 8,
+        "memoryMB": 32768
+    },
+    "Standard_D16d_v4": {
+        "vCPUs": 16,
+        "memoryMB": 65536
+    },
+    "Standard_D32d_v4": {
+        "vCPUs": 32,
+        "memoryMB": 131072
+    },
+    "Standard_D48d_v4": {
+        "vCPUs": 48,
+        "memoryMB": 196608
+    },
+    "Standard_D64d_v4": {
+        "vCPUs": 64,
+        "memoryMB": 262144
+    },
+    "Standard_D2_v4": {
+        "vCPUs": 2,
+        "memoryMB": 8192
+    },
+    "Standard_D4_v4": {
+        "vCPUs": 4,
+        "memoryMB": 16384
+    },
+    "Standard_D8_v4": {
+        "vCPUs": 8,
+        "memoryMB": 32768
+    },
+    "Standard_D16_v4": {
+        "vCPUs": 16,
+        "memoryMB": 65536
+    },
+    "Standard_D32_v4": {
+        "vCPUs": 32,
+        "memoryMB": 131072
+    },
+    "Standard_D48_v4": {
+        "vCPUs": 48,
+        "memoryMB": 196608
+    },
+    "Standard_D64_v4": {
+        "vCPUs": 64,
+        "memoryMB": 262144
+    },
+    "Standard_D2ds_v4": {
+        "vCPUs": 2,
+        "memoryMB": 8192
+    },
+    "Standard_D4ds_v4": {
+        "vCPUs": 4,
+        "memoryMB": 16384
+    },
+    "Standard_D8ds_v4": {
+        "vCPUs": 8,
+        "memoryMB": 32768
+    },
+    "Standard_D16ds_v4": {
+        "vCPUs": 16,
+        "memoryMB": 65536
+    },
+    "Standard_D32ds_v4": {
+        "vCPUs": 32,
+        "memoryMB": 131072
+    },
+    "Standard_D48ds_v4": {
+        "vCPUs": 48,
+        "memoryMB": 196608
+    },
+    "Standard_D64ds_v4": {
+        "vCPUs": 64,
+        "memoryMB": 262144
+    },
+    "Standard_D2s_v4": {
+        "vCPUs": 2,
+        "memoryMB": 8192
+    },
+    "Standard_D4s_v4": {
+        "vCPUs": 4,
+        "memoryMB": 16384
+    },
+    "Standard_D8s_v4": {
+        "vCPUs": 8,
+        "memoryMB": 32768
+    },
+    "Standard_D16s_v4": {
+        "vCPUs": 16,
+        "memoryMB": 65536
+    },
+    "Standard_D32s_v4": {
+        "vCPUs": 32,
+        "memoryMB": 131072
+    },
+    "Standard_D48s_v4": {
+        "vCPUs": 48,
+        "memoryMB": 196608
+    },
+    "Standard_D64s_v4": {
+        "vCPUs": 64,
+        "memoryMB": 262144
+    },
+    "Standard_D1_v2": {
+        "vCPUs": 1,
+        "memoryMB": 3584
+    },
+    "Standard_D2_v2": {
+        "vCPUs": 2,
+        "memoryMB": 7168
+    },
+    "Standard_D3_v2": {
+        "vCPUs": 4,
+        "memoryMB": 14336
+    },
+    "Standard_D4_v2": {
+        "vCPUs": 8,
+        "memoryMB": 28672
+    },
+    "Standard_D5_v2": {
+        "vCPUs": 16,
+        "memoryMB": 57344
+    },
+    "Standard_D11_v2": {
+        "vCPUs": 2,
+        "memoryMB": 14336
+    },
+    "Standard_D12_v2": {
+        "vCPUs": 4,
+        "memoryMB": 28672
+    },
+    "Standard_D13_v2": {
+        "vCPUs": 8,
+        "memoryMB": 57344
+    },
+    "Standard_D14_v2": {
+        "vCPUs": 16,
+        "memoryMB": 114688
+    },
+    "Standard_D15_v2": {
+        "vCPUs": 20,
+        "memoryMB": 143360
+    },
+    "Standard_D2_v2_Promo": {
+        "vCPUs": 2,
+        "memoryMB": 7168
+    },
+    "Standard_D3_v2_Promo": {
+        "vCPUs": 4,
+        "memoryMB": 14336
+    },
+    "Standard_D4_v2_Promo": {
+        "vCPUs": 8,
+        "memoryMB": 28672
+    },
+    "Standard_D5_v2_Promo": {
+        "vCPUs": 16,
+        "memoryMB": 57344
+    },
+    "Standard_D11_v2_Promo": {
+        "vCPUs": 2,
+        "memoryMB": 14336
+    },
+    "Standard_D12_v2_Promo": {
+        "vCPUs": 4,
+        "memoryMB": 28672
+    },
+    "Standard_D13_v2_Promo": {
+        "vCPUs": 8,
+        "memoryMB": 57344
+    },
+    "Standard_D14_v2_Promo": {
+        "vCPUs": 16,
+        "memoryMB": 114688
+    },
+    "Standard_F1": {
+        "vCPUs": 1,
+        "memoryMB": 2048
+    },
+    "Standard_F2": {
+        "vCPUs": 2,
+        "memoryMB": 4096
+    },
+    "Standard_F4": {
+        "vCPUs": 4,
+        "memoryMB": 8192
+    },
+    "Standard_F8": {
+        "vCPUs": 8,
+        "memoryMB": 16384
+    },
+    "Standard_F16": {
+        "vCPUs": 16,
+        "memoryMB": 32768
+    },
+    "Standard_DS1_v2": {
+        "vCPUs": 1,
+        "memoryMB": 3584
+    },
+    "Standard_DS2_v2": {
+        "vCPUs": 2,
+        "memoryMB": 7168
+    },
+    "Standard_DS3_v2": {
+        "vCPUs": 4,
+        "memoryMB": 14336
+    },
+    "Standard_DS4_v2": {
+        "vCPUs": 8,
+        "memoryMB": 28672
+    },
+    "Standard_DS5_v2": {
+        "vCPUs": 16,
+        "memoryMB": 57344
+    },
+    "Standard_DS11-1_v2": {
+        "vCPUs": 2,
+        "memoryMB": 14336
+    },
+    "Standard_DS11_v2": {
+        "vCPUs": 2,
+        "memoryMB": 14336
+    },
+    "Standard_DS12-1_v2": {
+        "vCPUs": 4,
+        "memoryMB": 28672
+    },
+    "Standard_DS12-2_v2": {
+        "vCPUs": 4,
+        "memoryMB": 28672
+    },
+    "Standard_DS12_v2": {
+        "vCPUs": 4,
+        "memoryMB": 28672
+    },
+    "Standard_DS13-2_v2": {
+        "vCPUs": 8,
+        "memoryMB": 57344
+    },
+    "Standard_DS13-4_v2": {
+        "vCPUs": 8,
+        "memoryMB": 57344
+    },
+    "Standard_DS13_v2": {
+        "vCPUs": 8,
+        "memoryMB": 57344
+    },
+    "Standard_DS14-4_v2": {
+        "vCPUs": 16,
+        "memoryMB": 114688
+    },
+    "Standard_DS14-8_v2": {
+        "vCPUs": 16,
+        "memoryMB": 114688
+    },
+    "Standard_DS14_v2": {
+        "vCPUs": 16,
+        "memoryMB": 114688
+    },
+    "Standard_DS15_v2": {
+        "vCPUs": 20,
+        "memoryMB": 143360
+    },
+    "Standard_DS2_v2_Promo": {
+        "vCPUs": 2,
+        "memoryMB": 7168
+    },
+    "Standard_DS3_v2_Promo": {
+        "vCPUs": 4,
+        "memoryMB": 14336
+    },
+    "Standard_DS4_v2_Promo": {
+        "vCPUs": 8,
+        "memoryMB": 28672
+    },
+    "Standard_DS5_v2_Promo": {
+        "vCPUs": 16,
+        "memoryMB": 57344
+    },
+    "Standard_DS11_v2_Promo": {
+        "vCPUs": 2,
+        "memoryMB": 14336
+    },
+    "Standard_DS12_v2_Promo": {
+        "vCPUs": 4,
+        "memoryMB": 28672
+    },
+    "Standard_DS13_v2_Promo": {
+        "vCPUs": 8,
+        "memoryMB": 57344
+    },
+    "Standard_DS14_v2_Promo": {
+        "vCPUs": 16,
+        "memoryMB": 114688
+    },
+    "Standard_F1s": {
+        "vCPUs": 1,
+        "memoryMB": 2048
+    },
+    "Standard_F2s": {
+        "vCPUs": 2,
+        "memoryMB": 4096
+    },
+    "Standard_F4s": {
+        "vCPUs": 4,
+        "memoryMB": 8192
+    },
+    "Standard_F8s": {
+        "vCPUs": 8,
+        "memoryMB": 16384
+    },
+    "Standard_F16s": {
+        "vCPUs": 16,
+        "memoryMB": 32768
+    },
+    "Standard_A1_v2": {
+        "vCPUs": 1,
+        "memoryMB": 2048
+    },
+    "Standard_A2m_v2": {
+        "vCPUs": 2,
+        "memoryMB": 16384
+    },
+    "Standard_A2_v2": {
+        "vCPUs": 2,
+        "memoryMB": 4096
+    },
+    "Standard_A4m_v2": {
+        "vCPUs": 4,
+        "memoryMB": 32768
+    },
+    "Standard_A4_v2": {
+        "vCPUs": 4,
+        "memoryMB": 8192
+    },
+    "Standard_A8m_v2": {
+        "vCPUs": 8,
+        "memoryMB": 65536
+    },
+    "Standard_A8_v2": {
+        "vCPUs": 8,
+        "memoryMB": 16384
+    },
+    "Standard_D2_v3": {
+        "vCPUs": 2,
+        "memoryMB": 8192
+    },
+    "Standard_D4_v3": {
+        "vCPUs": 4,
+        "memoryMB": 16384
+    },
+    "Standard_D8_v3": {
+        "vCPUs": 8,
+        "memoryMB": 32768
+    },
+    "Standard_D16_v3": {
+        "vCPUs": 16,
+        "memoryMB": 65536
+    },
+    "Standard_D32_v3": {
+        "vCPUs": 32,
+        "memoryMB": 131072
+    },
+    "Standard_D48_v3": {
+        "vCPUs": 48,
+        "memoryMB": 196608
+    },
+    "Standard_D64_v3": {
+        "vCPUs": 64,
+        "memoryMB": 262144
+    },
+    "Standard_D2s_v3": {
+        "vCPUs": 2,
+        "memoryMB": 8192
+    },
+    "Standard_D4s_v3": {
+        "vCPUs": 4,
+        "memoryMB": 16384
+    },
+    "Standard_D8s_v3": {
+        "vCPUs": 8,
+        "memoryMB": 32768
+    },
+    "Standard_D16s_v3": {
+        "vCPUs": 16,
+        "memoryMB": 65536
+    },
+    "Standard_D32s_v3": {
+        "vCPUs": 32,
+        "memoryMB": 131072
+    },
+    "Standard_D48s_v3": {
+        "vCPUs": 48,
+        "memoryMB": 196608
+    },
+    "Standard_D64s_v3": {
+        "vCPUs": 64,
+        "memoryMB": 262144
+    },
+    "Standard_E2_v3": {
+        "vCPUs": 2,
+        "memoryMB": 16384
+    },
+    "Standard_E4_v3": {
+        "vCPUs": 4,
+        "memoryMB": 32768
+    },
+    "Standard_E8_v3": {
+        "vCPUs": 8,
+        "memoryMB": 65536
+    },
+    "Standard_E16_v3": {
+        "vCPUs": 16,
+        "memoryMB": 131072
+    },
+    "Standard_E20_v3": {
+        "vCPUs": 20,
+        "memoryMB": 163840
+    },
+    "Standard_E32_v3": {
+        "vCPUs": 32,
+        "memoryMB": 262144
+    },
+    "Standard_E48_v3": {
+        "vCPUs": 48,
+        "memoryMB": 393216
+    },
+    "Standard_E64_v3": {
+        "vCPUs": 64,
+        "memoryMB": 442368
+    },
+    "Standard_E2s_v3": {
+        "vCPUs": 2,
+        "memoryMB": 16384
+    },
+    "Standard_E4-2s_v3": {
+        "vCPUs": 4,
+        "memoryMB": 32768
+    },
+    "Standard_E4s_v3": {
+        "vCPUs": 4,
+        "memoryMB": 32768
+    },
+    "Standard_E8-2s_v3": {
+        "vCPUs": 8,
+        "memoryMB": 65536
+    },
+    "Standard_E8-4s_v3": {
+        "vCPUs": 8,
+        "memoryMB": 65536
+    },
+    "Standard_E8s_v3": {
+        "vCPUs": 8,
+        "memoryMB": 65536
+    },
+    "Standard_E16-4s_v3": {
+        "vCPUs": 16,
+        "memoryMB": 131072
+    },
+    "Standard_E16-8s_v3": {
+        "vCPUs": 16,
+        "memoryMB": 131072
+    },
+    "Standard_E16s_v3": {
+        "vCPUs": 16,
+        "memoryMB": 131072
+    },
+    "Standard_E20s_v3": {
+        "vCPUs": 20,
+        "memoryMB": 163840
+    },
+    "Standard_E32-8s_v3": {
+        "vCPUs": 32,
+        "memoryMB": 262144
+    },
+    "Standard_E32-16s_v3": {
+        "vCPUs": 32,
+        "memoryMB": 262144
+    },
+    "Standard_E32s_v3": {
+        "vCPUs": 32,
+        "memoryMB": 262144
+    },
+    "Standard_E48s_v3": {
+        "vCPUs": 48,
+        "memoryMB": 393216
+    },
+    "Standard_E64-16s_v3": {
+        "vCPUs": 64,
+        "memoryMB": 442368
+    },
+    "Standard_E64-32s_v3": {
+        "vCPUs": 64,
+        "memoryMB": 442368
+    },
+    "Standard_E64s_v3": {
+        "vCPUs": 64,
+        "memoryMB": 442368
+    },
+    "Standard_D2a_v4": {
+        "vCPUs": 2,
+        "memoryMB": 8192
+    },
+    "Standard_D4a_v4": {
+        "vCPUs": 4,
+        "memoryMB": 16384
+    },
+    "Standard_D8a_v4": {
+        "vCPUs": 8,
+        "memoryMB": 32768
+    },
+    "Standard_D16a_v4": {
+        "vCPUs": 16,
+        "memoryMB": 65536
+    },
+    "Standard_D32a_v4": {
+        "vCPUs": 32,
+        "memoryMB": 131072
+    },
+    "Standard_D48a_v4": {
+        "vCPUs": 48,
+        "memoryMB": 196608
+    },
+    "Standard_D64a_v4": {
+        "vCPUs": 64,
+        "memoryMB": 262144
+    },
+    "Standard_D96a_v4": {
+        "vCPUs": 96,
+        "memoryMB": 393216
+    },
+    "Standard_D2as_v4": {
+        "vCPUs": 2,
+        "memoryMB": 8192
+    },
+    "Standard_D4as_v4": {
+        "vCPUs": 4,
+        "memoryMB": 16384
+    },
+    "Standard_D8as_v4": {
+        "vCPUs": 8,
+        "memoryMB": 32768
+    },
+    "Standard_D16as_v4": {
+        "vCPUs": 16,
+        "memoryMB": 65536
+    },
+    "Standard_D32as_v4": {
+        "vCPUs": 32,
+        "memoryMB": 131072
+    },
+    "Standard_D48as_v4": {
+        "vCPUs": 48,
+        "memoryMB": 196608
+    },
+    "Standard_D64as_v4": {
+        "vCPUs": 64,
+        "memoryMB": 262144
+    },
+    "Standard_D96as_v4": {
+        "vCPUs": 96,
+        "memoryMB": 393216
+    },
+    "Standard_D2as_v5": {
+        "vCPUs": 2,
+        "memoryMB": 8192
+    },
+    "Standard_D4as_v5": {
+        "vCPUs": 4,
+        "memoryMB": 16384
+    },
+    "Standard_D8as_v5": {
+        "vCPUs": 8,
+        "memoryMB": 32768
+    },
+    "Standard_D16as_v5": {
+        "vCPUs": 16,
+        "memoryMB": 65536
+    },
+    "Standard_D32as_v5": {
+        "vCPUs": 32,
+        "memoryMB": 131072
+    },
+    "Standard_D48as_v5": {
+        "vCPUs": 48,
+        "memoryMB": 196608
+    },
+    "Standard_D64as_v5": {
+        "vCPUs": 64,
+        "memoryMB": 262144
+    },
+    "Standard_D96as_v5": {
+        "vCPUs": 96,
+        "memoryMB": 393216
+    },
+    "Standard_D2ads_v5": {
+        "vCPUs": 2,
+        "memoryMB": 8192
+    },
+    "Standard_D4ads_v5": {
+        "vCPUs": 4,
+        "memoryMB": 16384
+    },
+    "Standard_D8ads_v5": {
+        "vCPUs": 8,
+        "memoryMB": 32768
+    },
+    "Standard_D16ads_v5": {
+        "vCPUs": 16,
+        "memoryMB": 65536
+    },
+    "Standard_D32ads_v5": {
+        "vCPUs": 32,
+        "memoryMB": 131072
+    },
+    "Standard_D48ads_v5": {
+        "vCPUs": 48,
+        "memoryMB": 196608
+    },
+    "Standard_D64ads_v5": {
+        "vCPUs": 64,
+        "memoryMB": 262144
+    },
+    "Standard_B2als_v2": {
+        "vCPUs": 2,
+        "memoryMB": 4096
+    },
+    "Standard_B2as_v2": {
+        "vCPUs": 2,
+        "memoryMB": 8192
+    },
+    "Standard_B2ats_v2": {
+        "vCPUs": 2,
+        "memoryMB": 1024
+    },
+    "Standard_B4als_v2": {
+        "vCPUs": 4,
+        "memoryMB": 8192
+    },
+    "Standard_B4as_v2": {
+        "vCPUs": 4,
+        "memoryMB": 16384
+    },
+    "Standard_B8als_v2": {
+        "vCPUs": 8,
+        "memoryMB": 16384
+    },
+    "Standard_B8as_v2": {
+        "vCPUs": 8,
+        "memoryMB": 32768
+    },
+    "Standard_B16als_v2": {
+        "vCPUs": 16,
+        "memoryMB": 32768
+    },
+    "Standard_B16as_v2": {
+        "vCPUs": 16,
+        "memoryMB": 65536
+    },
+    "Standard_B32als_v2": {
+        "vCPUs": 32,
+        "memoryMB": 65536
+    },
+    "Standard_B32as_v2": {
+        "vCPUs": 32,
+        "memoryMB": 131072
+    },
+    "Standard_D2plds_v5": {
+        "vCPUs": 2,
+        "memoryMB": 4096
+    },
+    "Standard_D4plds_v5": {
+        "vCPUs": 4,
+        "memoryMB": 8192
+    },
+    "Standard_D8plds_v5": {
+        "vCPUs": 8,
+        "memoryMB": 16384
+    },
+    "Standard_D16plds_v5": {
+        "vCPUs": 16,
+        "memoryMB": 32768
+    },
+    "Standard_D32plds_v5": {
+        "vCPUs": 32,
+        "memoryMB": 65536
+    },
+    "Standard_D48plds_v5": {
+        "vCPUs": 48,
+        "memoryMB": 98304
+    },
+    "Standard_D64plds_v5": {
+        "vCPUs": 64,
+        "memoryMB": 131072
+    },
+    "Standard_D2pls_v5": {
+        "vCPUs": 2,
+        "memoryMB": 4096
+    },
+    "Standard_D4pls_v5": {
+        "vCPUs": 4,
+        "memoryMB": 8192
+    },
+    "Standard_D8pls_v5": {
+        "vCPUs": 8,
+        "memoryMB": 16384
+    },
+    "Standard_D16pls_v5": {
+        "vCPUs": 16,
+        "memoryMB": 32768
+    },
+    "Standard_D32pls_v5": {
+        "vCPUs": 32,
+        "memoryMB": 65536
+    },
+    "Standard_D48pls_v5": {
+        "vCPUs": 48,
+        "memoryMB": 98304
+    },
+    "Standard_D64pls_v5": {
+        "vCPUs": 64,
+        "memoryMB": 131072
+    },
+    "Standard_D2pds_v5": {
+        "vCPUs": 2,
+        "memoryMB": 8192
+    },
+    "Standard_D4pds_v5": {
+        "vCPUs": 4,
+        "memoryMB": 16384
+    },
+    "Standard_D8pds_v5": {
+        "vCPUs": 8,
+        "memoryMB": 32768
+    },
+    "Standard_D16pds_v5": {
+        "vCPUs": 16,
+        "memoryMB": 65536
+    },
+    "Standard_D32pds_v5": {
+        "vCPUs": 32,
+        "memoryMB": 131072
+    },
+    "Standard_D48pds_v5": {
+        "vCPUs": 48,
+        "memoryMB": 196608
+    },
+    "Standard_D64pds_v5": {
+        "vCPUs": 64,
+        "memoryMB": 212992
+    },
+    "Standard_D2ps_v5": {
+        "vCPUs": 2,
+        "memoryMB": 8192
+    },
+    "Standard_D4ps_v5": {
+        "vCPUs": 4,
+        "memoryMB": 16384
+    },
+    "Standard_D8ps_v5": {
+        "vCPUs": 8,
+        "memoryMB": 32768
+    },
+    "Standard_D16ps_v5": {
+        "vCPUs": 16,
+        "memoryMB": 65536
+    },
+    "Standard_D32ps_v5": {
+        "vCPUs": 32,
+        "memoryMB": 131072
+    },
+    "Standard_D48ps_v5": {
+        "vCPUs": 48,
+        "memoryMB": 196608
+    },
+    "Standard_D64ps_v5": {
+        "vCPUs": 64,
+        "memoryMB": 212992
+    },
+    "Standard_E2pds_v5": {
+        "vCPUs": 2,
+        "memoryMB": 16384
+    },
+    "Standard_E4pds_v5": {
+        "vCPUs": 4,
+        "memoryMB": 32768
+    },
+    "Standard_E8pds_v5": {
+        "vCPUs": 8,
+        "memoryMB": 65536
+    },
+    "Standard_E16pds_v5": {
+        "vCPUs": 16,
+        "memoryMB": 131072
+    },
+    "Standard_E20pds_v5": {
+        "vCPUs": 20,
+        "memoryMB": 163840
+    },
+    "Standard_E32pds_v5": {
+        "vCPUs": 32,
+        "memoryMB": 212992
+    },
+    "Standard_E2ps_v5": {
+        "vCPUs": 2,
+        "memoryMB": 16384
+    },
+    "Standard_E4ps_v5": {
+        "vCPUs": 4,
+        "memoryMB": 32768
+    },
+    "Standard_E8ps_v5": {
+        "vCPUs": 8,
+        "memoryMB": 65536
+    },
+    "Standard_E16ps_v5": {
+        "vCPUs": 16,
+        "memoryMB": 131072
+    },
+    "Standard_E20ps_v5": {
+        "vCPUs": 20,
+        "memoryMB": 163840
+    },
+    "Standard_E32ps_v5": {
+        "vCPUs": 32,
+        "memoryMB": 212992
+    },
+    "Standard_B2pls_v2": {
+        "vCPUs": 2,
+        "memoryMB": 4096
+    },
+    "Standard_B2ps_v2": {
+        "vCPUs": 2,
+        "memoryMB": 8192
+    },
+    "Standard_B2pts_v2": {
+        "vCPUs": 2,
+        "memoryMB": 1024
+    },
+    "Standard_B4pls_v2": {
+        "vCPUs": 4,
+        "memoryMB": 8192
+    },
+    "Standard_B4ps_v2": {
+        "vCPUs": 4,
+        "memoryMB": 16384
+    },
+    "Standard_B8pls_v2": {
+        "vCPUs": 8,
+        "memoryMB": 16384
+    },
+    "Standard_B8ps_v2": {
+        "vCPUs": 8,
+        "memoryMB": 32768
+    },
+    "Standard_B16pls_v2": {
+        "vCPUs": 16,
+        "memoryMB": 32768
+    },
+    "Standard_B16ps_v2": {
+        "vCPUs": 16,
+        "memoryMB": 65536
+    },
+    "Standard_E2a_v4": {
+        "vCPUs": 2,
+        "memoryMB": 16384
+    },
+    "Standard_E4a_v4": {
+        "vCPUs": 4,
+        "memoryMB": 32768
+    },
+    "Standard_E8a_v4": {
+        "vCPUs": 8,
+        "memoryMB": 65536
+    },
+    "Standard_E16a_v4": {
+        "vCPUs": 16,
+        "memoryMB": 131072
+    },
+    "Standard_E20a_v4": {
+        "vCPUs": 20,
+        "memoryMB": 163840
+    },
+    "Standard_E32a_v4": {
+        "vCPUs": 32,
+        "memoryMB": 262144
+    },
+    "Standard_E48a_v4": {
+        "vCPUs": 48,
+        "memoryMB": 393216
+    },
+    "Standard_E64a_v4": {
+        "vCPUs": 64,
+        "memoryMB": 524288
+    },
+    "Standard_E96a_v4": {
+        "vCPUs": 96,
+        "memoryMB": 688128
+    },
+    "Standard_E2as_v4": {
+        "vCPUs": 2,
+        "memoryMB": 16384
+    },
+    "Standard_E4-2as_v4": {
+        "vCPUs": 4,
+        "memoryMB": 32768
+    },
+    "Standard_E4as_v4": {
+        "vCPUs": 4,
+        "memoryMB": 32768
+    },
+    "Standard_E8-2as_v4": {
+        "vCPUs": 8,
+        "memoryMB": 65536
+    },
+    "Standard_E8-4as_v4": {
+        "vCPUs": 8,
+        "memoryMB": 65536
+    },
+    "Standard_E8as_v4": {
+        "vCPUs": 8,
+        "memoryMB": 65536
+    },
+    "Standard_E16-4as_v4": {
+        "vCPUs": 16,
+        "memoryMB": 131072
+    },
+    "Standard_E16-8as_v4": {
+        "vCPUs": 16,
+        "memoryMB": 131072
+    },
+    "Standard_E16as_v4": {
+        "vCPUs": 16,
+        "memoryMB": 131072
+    },
+    "Standard_E20as_v4": {
+        "vCPUs": 20,
+        "memoryMB": 163840
+    },
+    "Standard_E32-8as_v4": {
+        "vCPUs": 32,
+        "memoryMB": 262144
+    },
+    "Standard_E32-16as_v4": {
+        "vCPUs": 32,
+        "memoryMB": 262144
+    },
+    "Standard_E32as_v4": {
+        "vCPUs": 32,
+        "memoryMB": 262144
+    },
+    "Standard_E48as_v4": {
+        "vCPUs": 48,
+        "memoryMB": 393216
+    },
+    "Standard_E64-16as_v4": {
+        "vCPUs": 64,
+        "memoryMB": 524288
+    },
+    "Standard_E64-32as_v4": {
+        "vCPUs": 64,
+        "memoryMB": 524288
+    },
+    "Standard_E64as_v4": {
+        "vCPUs": 64,
+        "memoryMB": 524288
+    },
+    "Standard_E96-24as_v4": {
+        "vCPUs": 96,
+        "memoryMB": 688128
+    },
+    "Standard_E96-48as_v4": {
+        "vCPUs": 96,
+        "memoryMB": 688128
+    },
+    "Standard_E96as_v4": {
+        "vCPUs": 96,
+        "memoryMB": 688128
+    },
+    "Standard_E2as_v5": {
+        "vCPUs": 2,
+        "memoryMB": 16384
+    },
+    "Standard_E4-2as_v5": {
+        "vCPUs": 4,
+        "memoryMB": 32768
+    },
+    "Standard_E4as_v5": {
+        "vCPUs": 4,
+        "memoryMB": 32768
+    },
+    "Standard_E8-2as_v5": {
+        "vCPUs": 8,
+        "memoryMB": 65536
+    },
+    "Standard_E8-4as_v5": {
+        "vCPUs": 8,
+        "memoryMB": 65536
+    },
+    "Standard_E8as_v5": {
+        "vCPUs": 8,
+        "memoryMB": 65536
+    },
+    "Standard_E16-4as_v5": {
+        "vCPUs": 16,
+        "memoryMB": 131072
+    },
+    "Standard_E16-8as_v5": {
+        "vCPUs": 16,
+        "memoryMB": 131072
+    },
+    "Standard_E16as_v5": {
+        "vCPUs": 16,
+        "memoryMB": 131072
+    },
+    "Standard_E20as_v5": {
+        "vCPUs": 20,
+        "memoryMB": 163840
+    },
+    "Standard_E32-8as_v5": {
+        "vCPUs": 32,
+        "memoryMB": 262144
+    },
+    "Standard_E32-16as_v5": {
+        "vCPUs": 32,
+        "memoryMB": 262144
+    },
+    "Standard_E32as_v5": {
+        "vCPUs": 32,
+        "memoryMB": 262144
+    },
+    "Standard_E48as_v5": {
+        "vCPUs": 48,
+        "memoryMB": 393216
+    },
+    "Standard_E64-16as_v5": {
+        "vCPUs": 64,
+        "memoryMB": 524288
+    },
+    "Standard_E64-32as_v5": {
+        "vCPUs": 64,
+        "memoryMB": 524288
+    },
+    "Standard_E64as_v5": {
+        "vCPUs": 64,
+        "memoryMB": 524288
+    },
+    "Standard_E96-24as_v5": {
+        "vCPUs": 96,
+        "memoryMB": 688128
+    },
+    "Standard_E96-48as_v5": {
+        "vCPUs": 96,
+        "memoryMB": 688128
+    },
+    "Standard_E96as_v5": {
+        "vCPUs": 96,
+        "memoryMB": 688128
+    },
+    "Standard_E112ias_v5": {
+        "vCPUs": 112,
+        "memoryMB": 688128
+    },
+    "Standard_D96ads_v5": {
+        "vCPUs": 96,
+        "memoryMB": 393216
+    },
+    "Standard_E2ads_v5": {
+        "vCPUs": 2,
+        "memoryMB": 16384
+    },
+    "Standard_E4-2ads_v5": {
+        "vCPUs": 4,
+        "memoryMB": 32768
+    },
+    "Standard_E4ads_v5": {
+        "vCPUs": 4,
+        "memoryMB": 32768
+    },
+    "Standard_E8-2ads_v5": {
+        "vCPUs": 8,
+        "memoryMB": 65536
+    },
+    "Standard_E8-4ads_v5": {
+        "vCPUs": 8,
+        "memoryMB": 65536
+    },
+    "Standard_E8ads_v5": {
+        "vCPUs": 8,
+        "memoryMB": 65536
+    },
+    "Standard_E16-4ads_v5": {
+        "vCPUs": 16,
+        "memoryMB": 131072
+    },
+    "Standard_E16-8ads_v5": {
+        "vCPUs": 16,
+        "memoryMB": 131072
+    },
+    "Standard_E16ads_v5": {
+        "vCPUs": 16,
+        "memoryMB": 131072
+    },
+    "Standard_E20ads_v5": {
+        "vCPUs": 20,
+        "memoryMB": 163840
+    },
+    "Standard_E32-8ads_v5": {
+        "vCPUs": 32,
+        "memoryMB": 262144
+    },
+    "Standard_E32-16ads_v5": {
+        "vCPUs": 32,
+        "memoryMB": 262144
+    },
+    "Standard_E32ads_v5": {
+        "vCPUs": 32,
+        "memoryMB": 262144
+    },
+    "Standard_E48ads_v5": {
+        "vCPUs": 48,
+        "memoryMB": 393216
+    },
+    "Standard_E64-16ads_v5": {
+        "vCPUs": 64,
+        "memoryMB": 524288
+    },
+    "Standard_E64-32ads_v5": {
+        "vCPUs": 64,
+        "memoryMB": 524288
+    },
+    "Standard_E64ads_v5": {
+        "vCPUs": 64,
+        "memoryMB": 524288
+    },
+    "Standard_E96-24ads_v5": {
+        "vCPUs": 96,
+        "memoryMB": 688128
+    },
+    "Standard_E96-48ads_v5": {
+        "vCPUs": 96,
+        "memoryMB": 688128
+    },
+    "Standard_E96ads_v5": {
+        "vCPUs": 96,
+        "memoryMB": 688128
+    },
+    "Standard_E112iads_v5": {
+        "vCPUs": 112,
+        "memoryMB": 688128
+    },
+    "Standard_HC44-16rs": {
+        "vCPUs": 16,
+        "memoryMB": 360448
+    },
+    "Standard_HC44-32rs": {
+        "vCPUs": 32,
+        "memoryMB": 360448
+    },
+    "Standard_HC44rs": {
+        "vCPUs": 44,
+        "memoryMB": 360448
+    },
+    "Standard_L8s_v3": {
+        "vCPUs": 8,
+        "memoryMB": 65536
+    },
+    "Standard_L16s_v3": {
+        "vCPUs": 16,
+        "memoryMB": 131072
+    },
+    "Standard_L32s_v3": {
+        "vCPUs": 32,
+        "memoryMB": 262144
+    },
+    "Standard_L48s_v3": {
+        "vCPUs": 48,
+        "memoryMB": 393216
+    },
+    "Standard_L64s_v3": {
+        "vCPUs": 64,
+        "memoryMB": 524288
+    },
+    "Standard_L80s_v3": {
+        "vCPUs": 80,
+        "memoryMB": 655360
+    },
+    "Standard_E2ds_v5": {
+        "vCPUs": 2,
+        "memoryMB": 16384
+    },
+    "Standard_E4-2ds_v5": {
+        "vCPUs": 4,
+        "memoryMB": 32768
+    },
+    "Standard_E4ds_v5": {
+        "vCPUs": 4,
+        "memoryMB": 32768
+    },
+    "Standard_E8-2ds_v5": {
+        "vCPUs": 8,
+        "memoryMB": 65536
+    },
+    "Standard_E8-4ds_v5": {
+        "vCPUs": 8,
+        "memoryMB": 65536
+    },
+    "Standard_E8ds_v5": {
+        "vCPUs": 8,
+        "memoryMB": 65536
+    },
+    "Standard_E16-4ds_v5": {
+        "vCPUs": 16,
+        "memoryMB": 131072
+    },
+    "Standard_E16-8ds_v5": {
+        "vCPUs": 16,
+        "memoryMB": 131072
+    },
+    "Standard_E16ds_v5": {
+        "vCPUs": 16,
+        "memoryMB": 131072
+    },
+    "Standard_E20ds_v5": {
+        "vCPUs": 20,
+        "memoryMB": 163840
+    },
+    "Standard_E32-8ds_v5": {
+        "vCPUs": 32,
+        "memoryMB": 262144
+    },
+    "Standard_E32-16ds_v5": {
+        "vCPUs": 32,
+        "memoryMB": 262144
+    },
+    "Standard_E32ds_v5": {
+        "vCPUs": 32,
+        "memoryMB": 262144
+    },
+    "Standard_E48ds_v5": {
+        "vCPUs": 48,
+        "memoryMB": 393216
+    },
+    "Standard_E64-16ds_v5": {
+        "vCPUs": 64,
+        "memoryMB": 524288
+    },
+    "Standard_E64-32ds_v5": {
+        "vCPUs": 64,
+        "memoryMB": 524288
+    },
+    "Standard_E64ds_v5": {
+        "vCPUs": 64,
+        "memoryMB": 524288
+    },
+    "Standard_E96-24ds_v5": {
+        "vCPUs": 96,
+        "memoryMB": 688128
+    },
+    "Standard_E96-48ds_v5": {
+        "vCPUs": 96,
+        "memoryMB": 688128
+    },
+    "Standard_E96ds_v5": {
+        "vCPUs": 96,
+        "memoryMB": 688128
+    },
+    "Standard_E104ids_v5": {
+        "vCPUs": 104,
+        "memoryMB": 688128
+    },
+    "Standard_E2d_v5": {
+        "vCPUs": 2,
+        "memoryMB": 16384
+    },
+    "Standard_E4d_v5": {
+        "vCPUs": 4,
+        "memoryMB": 32768
+    },
+    "Standard_E8d_v5": {
+        "vCPUs": 8,
+        "memoryMB": 65536
+    },
+    "Standard_E16d_v5": {
+        "vCPUs": 16,
+        "memoryMB": 131072
+    },
+    "Standard_E20d_v5": {
+        "vCPUs": 20,
+        "memoryMB": 163840
+    },
+    "Standard_E32d_v5": {
+        "vCPUs": 32,
+        "memoryMB": 262144
+    },
+    "Standard_E48d_v5": {
+        "vCPUs": 48,
+        "memoryMB": 393216
+    },
+    "Standard_E64d_v5": {
+        "vCPUs": 64,
+        "memoryMB": 524288
+    },
+    "Standard_E96d_v5": {
+        "vCPUs": 96,
+        "memoryMB": 688128
+    },
+    "Standard_E104id_v5": {
+        "vCPUs": 104,
+        "memoryMB": 688128
+    },
+    "Standard_E2s_v5": {
+        "vCPUs": 2,
+        "memoryMB": 16384
+    },
+    "Standard_E4-2s_v5": {
+        "vCPUs": 4,
+        "memoryMB": 32768
+    },
+    "Standard_E4s_v5": {
+        "vCPUs": 4,
+        "memoryMB": 32768
+    },
+    "Standard_E8-2s_v5": {
+        "vCPUs": 8,
+        "memoryMB": 65536
+    },
+    "Standard_E8-4s_v5": {
+        "vCPUs": 8,
+        "memoryMB": 65536
+    },
+    "Standard_E8s_v5": {
+        "vCPUs": 8,
+        "memoryMB": 65536
+    },
+    "Standard_E16-4s_v5": {
+        "vCPUs": 16,
+        "memoryMB": 131072
+    },
+    "Standard_E16-8s_v5": {
+        "vCPUs": 16,
+        "memoryMB": 131072
+    },
+    "Standard_E16s_v5": {
+        "vCPUs": 16,
+        "memoryMB": 131072
+    },
+    "Standard_E20s_v5": {
+        "vCPUs": 20,
+        "memoryMB": 163840
+    },
+    "Standard_E32-8s_v5": {
+        "vCPUs": 32,
+        "memoryMB": 262144
+    },
+    "Standard_E32-16s_v5": {
+        "vCPUs": 32,
+        "memoryMB": 262144
+    },
+    "Standard_E32s_v5": {
+        "vCPUs": 32,
+        "memoryMB": 262144
+    },
+    "Standard_E48s_v5": {
+        "vCPUs": 48,
+        "memoryMB": 393216
+    },
+    "Standard_E64-16s_v5": {
+        "vCPUs": 64,
+        "memoryMB": 524288
+    },
+    "Standard_E64-32s_v5": {
+        "vCPUs": 64,
+        "memoryMB": 524288
+    },
+    "Standard_E64s_v5": {
+        "vCPUs": 64,
+        "memoryMB": 524288
+    },
+    "Standard_E96-24s_v5": {
+        "vCPUs": 96,
+        "memoryMB": 688128
+    },
+    "Standard_E96-48s_v5": {
+        "vCPUs": 96,
+        "memoryMB": 688128
+    },
+    "Standard_E96s_v5": {
+        "vCPUs": 96,
+        "memoryMB": 688128
+    },
+    "Standard_E104is_v5": {
+        "vCPUs": 104,
+        "memoryMB": 688128
+    },
+    "Standard_E2_v5": {
+        "vCPUs": 2,
+        "memoryMB": 16384
+    },
+    "Standard_E4_v5": {
+        "vCPUs": 4,
+        "memoryMB": 32768
+    },
+    "Standard_E8_v5": {
+        "vCPUs": 8,
+        "memoryMB": 65536
+    },
+    "Standard_E16_v5": {
+        "vCPUs": 16,
+        "memoryMB": 131072
+    },
+    "Standard_E20_v5": {
+        "vCPUs": 20,
+        "memoryMB": 163840
+    },
+    "Standard_E32_v5": {
+        "vCPUs": 32,
+        "memoryMB": 262144
+    },
+    "Standard_E48_v5": {
+        "vCPUs": 48,
+        "memoryMB": 393216
+    },
+    "Standard_E64_v5": {
+        "vCPUs": 64,
+        "memoryMB": 524288
+    },
+    "Standard_E96_v5": {
+        "vCPUs": 96,
+        "memoryMB": 688128
+    },
+    "Standard_E104i_v5": {
+        "vCPUs": 104,
+        "memoryMB": 688128
+    },
+    "Standard_E2bs_v5": {
+        "vCPUs": 2,
+        "memoryMB": 16384
+    },
+    "Standard_E4bs_v5": {
+        "vCPUs": 4,
+        "memoryMB": 32768
+    },
+    "Standard_E8bs_v5": {
+        "vCPUs": 8,
+        "memoryMB": 65536
+    },
+    "Standard_E16bs_v5": {
+        "vCPUs": 16,
+        "memoryMB": 131072
+    },
+    "Standard_E32bs_v5": {
+        "vCPUs": 32,
+        "memoryMB": 262144
+    },
+    "Standard_E48bs_v5": {
+        "vCPUs": 48,
+        "memoryMB": 393216
+    },
+    "Standard_E64bs_v5": {
+        "vCPUs": 64,
+        "memoryMB": 524288
+    },
+    "Standard_E96bs_v5": {
+        "vCPUs": 96,
+        "memoryMB": 688128
+    },
+    "Standard_E112ibs_v5": {
+        "vCPUs": 112,
+        "memoryMB": 688128
+    },
+    "Standard_E2bds_v5": {
+        "vCPUs": 2,
+        "memoryMB": 16384
+    },
+    "Standard_E4bds_v5": {
+        "vCPUs": 4,
+        "memoryMB": 32768
+    },
+    "Standard_E8bds_v5": {
+        "vCPUs": 8,
+        "memoryMB": 65536
+    },
+    "Standard_E16bds_v5": {
+        "vCPUs": 16,
+        "memoryMB": 131072
+    },
+    "Standard_E32bds_v5": {
+        "vCPUs": 32,
+        "memoryMB": 262144
+    },
+    "Standard_E48bds_v5": {
+        "vCPUs": 48,
+        "memoryMB": 393216
+    },
+    "Standard_E64bds_v5": {
+        "vCPUs": 64,
+        "memoryMB": 524288
+    },
+    "Standard_E96bds_v5": {
+        "vCPUs": 96,
+        "memoryMB": 688128
+    },
+    "Standard_E112ibds_v5": {
+        "vCPUs": 112,
+        "memoryMB": 688128
+    },
+    "Standard_M64": {
+        "vCPUs": 64,
+        "memoryMB": 1048576
+    },
+    "Standard_M64m": {
+        "vCPUs": 64,
+        "memoryMB": 1835008
+    },
+    "Standard_M128": {
+        "vCPUs": 128,
+        "memoryMB": 2097152
+    },
+    "Standard_M128m": {
+        "vCPUs": 128,
+        "memoryMB": 3985408
+    },
+    "Standard_M8-2ms": {
+        "vCPUs": 8,
+        "memoryMB": 224000
+    },
+    "Standard_M8-4ms": {
+        "vCPUs": 8,
+        "memoryMB": 224000
+    },
+    "Standard_M8ms": {
+        "vCPUs": 8,
+        "memoryMB": 224000
+    },
+    "Standard_M16-4ms": {
+        "vCPUs": 16,
+        "memoryMB": 448000
+    },
+    "Standard_M16-8ms": {
+        "vCPUs": 16,
+        "memoryMB": 448000
+    },
+    "Standard_M16ms": {
+        "vCPUs": 16,
+        "memoryMB": 448000
+    },
+    "Standard_M32-8ms": {
+        "vCPUs": 32,
+        "memoryMB": 896000
+    },
+    "Standard_M32-16ms": {
+        "vCPUs": 32,
+        "memoryMB": 896000
+    },
+    "Standard_M32ls": {
+        "vCPUs": 32,
+        "memoryMB": 262144
+    },
+    "Standard_M32ms": {
+        "vCPUs": 32,
+        "memoryMB": 896000
+    },
+    "Standard_M32ts": {
+        "vCPUs": 32,
+        "memoryMB": 196608
+    },
+    "Standard_M64-16ms": {
+        "vCPUs": 64,
+        "memoryMB": 1835008
+    },
+    "Standard_M64-32ms": {
+        "vCPUs": 64,
+        "memoryMB": 1835008
+    },
+    "Standard_M64ls": {
+        "vCPUs": 64,
+        "memoryMB": 524288
+    },
+    "Standard_M64ms": {
+        "vCPUs": 64,
+        "memoryMB": 1835008
+    },
+    "Standard_M64s": {
+        "vCPUs": 64,
+        "memoryMB": 1048576
+    },
+    "Standard_M128-32ms": {
+        "vCPUs": 128,
+        "memoryMB": 3985408
+    },
+    "Standard_M128-64ms": {
+        "vCPUs": 128,
+        "memoryMB": 3985408
+    },
+    "Standard_M128ms": {
+        "vCPUs": 128,
+        "memoryMB": 3985408
+    },
+    "Standard_M128s": {
+        "vCPUs": 128,
+        "memoryMB": 2097152
+    },
+    "Standard_M32ms_v2": {
+        "vCPUs": 32,
+        "memoryMB": 896000
+    },
+    "Standard_M64ms_v2": {
+        "vCPUs": 64,
+        "memoryMB": 1835008
+    },
+    "Standard_M64s_v2": {
+        "vCPUs": 64,
+        "memoryMB": 1048576
+    },
+    "Standard_M128ms_v2": {
+        "vCPUs": 128,
+        "memoryMB": 3985408
+    },
+    "Standard_M128s_v2": {
+        "vCPUs": 128,
+        "memoryMB": 2097152
+    },
+    "Standard_M192ims_v2": {
+        "vCPUs": 192,
+        "memoryMB": 4194304
+    },
+    "Standard_M192is_v2": {
+        "vCPUs": 192,
+        "memoryMB": 2097152
+    },
+    "Standard_M32dms_v2": {
+        "vCPUs": 32,
+        "memoryMB": 896000
+    },
+    "Standard_M64dms_v2": {
+        "vCPUs": 64,
+        "memoryMB": 1835008
+    },
+    "Standard_M64ds_v2": {
+        "vCPUs": 64,
+        "memoryMB": 1048576
+    },
+    "Standard_M128dms_v2": {
+        "vCPUs": 128,
+        "memoryMB": 3985408
+    },
+    "Standard_M128ds_v2": {
+        "vCPUs": 128,
+        "memoryMB": 2097152
+    },
+    "Standard_M192idms_v2": {
+        "vCPUs": 192,
+        "memoryMB": 4194304
+    },
+    "Standard_M192ids_v2": {
+        "vCPUs": 192,
+        "memoryMB": 2097152
+    },
+    "Standard_A0": {
+        "vCPUs": 1,
+        "memoryMB": 768
+    },
+    "Standard_A1": {
+        "vCPUs": 1,
+        "memoryMB": 1792
+    },
+    "Standard_A2": {
+        "vCPUs": 2,
+        "memoryMB": 3584
+    },
+    "Standard_A3": {
+        "vCPUs": 4,
+        "memoryMB": 7168
+    },
+    "Standard_A5": {
+        "vCPUs": 2,
+        "memoryMB": 14336
+    },
+    "Standard_A4": {
+        "vCPUs": 8,
+        "memoryMB": 14336
+    },
+    "Standard_A6": {
+        "vCPUs": 4,
+        "memoryMB": 28672
+    },
+    "Standard_A7": {
+        "vCPUs": 8,
+        "memoryMB": 57344
+    },
+    "Basic_A0": {
+        "vCPUs": 1,
+        "memoryMB": 768
+    },
+    "Basic_A1": {
+        "vCPUs": 1,
+        "memoryMB": 1792
+    },
+    "Basic_A2": {
+        "vCPUs": 2,
+        "memoryMB": 3584
+    },
+    "Basic_A3": {
+        "vCPUs": 4,
+        "memoryMB": 7168
+    },
+    "Basic_A4": {
+        "vCPUs": 8,
+        "memoryMB": 14336
+    },
+    "Standard_D2ds_v5": {
+        "vCPUs": 2,
+        "memoryMB": 8192
+    },
+    "Standard_D4ds_v5": {
+        "vCPUs": 4,
+        "memoryMB": 16384
+    },
+    "Standard_D8ds_v5": {
+        "vCPUs": 8,
+        "memoryMB": 32768
+    },
+    "Standard_D16ds_v5": {
+        "vCPUs": 16,
+        "memoryMB": 65536
+    },
+    "Standard_D32ds_v5": {
+        "vCPUs": 32,
+        "memoryMB": 131072
+    },
+    "Standard_D48ds_v5": {
+        "vCPUs": 48,
+        "memoryMB": 196608
+    },
+    "Standard_D64ds_v5": {
+        "vCPUs": 64,
+        "memoryMB": 262144
+    },
+    "Standard_D96ds_v5": {
+        "vCPUs": 96,
+        "memoryMB": 393216
+    },
+    "Standard_D2d_v5": {
+        "vCPUs": 2,
+        "memoryMB": 8192
+    },
+    "Standard_D4d_v5": {
+        "vCPUs": 4,
+        "memoryMB": 16384
+    },
+    "Standard_D8d_v5": {
+        "vCPUs": 8,
+        "memoryMB": 32768
+    },
+    "Standard_D16d_v5": {
+        "vCPUs": 16,
+        "memoryMB": 65536
+    },
+    "Standard_D32d_v5": {
+        "vCPUs": 32,
+        "memoryMB": 131072
+    },
+    "Standard_D48d_v5": {
+        "vCPUs": 48,
+        "memoryMB": 196608
+    },
+    "Standard_D64d_v5": {
+        "vCPUs": 64,
+        "memoryMB": 262144
+    },
+    "Standard_D96d_v5": {
+        "vCPUs": 96,
+        "memoryMB": 393216
+    },
+    "Standard_D2s_v5": {
+        "vCPUs": 2,
+        "memoryMB": 8192
+    },
+    "Standard_D4s_v5": {
+        "vCPUs": 4,
+        "memoryMB": 16384
+    },
+    "Standard_D8s_v5": {
+        "vCPUs": 8,
+        "memoryMB": 32768
+    },
+    "Standard_D16s_v5": {
+        "vCPUs": 16,
+        "memoryMB": 65536
+    },
+    "Standard_D32s_v5": {
+        "vCPUs": 32,
+        "memoryMB": 131072
+    },
+    "Standard_D48s_v5": {
+        "vCPUs": 48,
+        "memoryMB": 196608
+    },
+    "Standard_D64s_v5": {
+        "vCPUs": 64,
+        "memoryMB": 262144
+    },
+    "Standard_D96s_v5": {
+        "vCPUs": 96,
+        "memoryMB": 393216
+    },
+    "Standard_D2_v5": {
+        "vCPUs": 2,
+        "memoryMB": 8192
+    },
+    "Standard_D4_v5": {
+        "vCPUs": 4,
+        "memoryMB": 16384
+    },
+    "Standard_D8_v5": {
+        "vCPUs": 8,
+        "memoryMB": 32768
+    },
+    "Standard_D16_v5": {
+        "vCPUs": 16,
+        "memoryMB": 65536
+    },
+    "Standard_D32_v5": {
+        "vCPUs": 32,
+        "memoryMB": 131072
+    },
+    "Standard_D48_v5": {
+        "vCPUs": 48,
+        "memoryMB": 196608
+    },
+    "Standard_D64_v5": {
+        "vCPUs": 64,
+        "memoryMB": 262144
+    },
+    "Standard_D96_v5": {
+        "vCPUs": 96,
+        "memoryMB": 393216
+    },
+    "Standard_D2ls_v5": {
+        "vCPUs": 2,
+        "memoryMB": 4096
+    },
+    "Standard_D4ls_v5": {
+        "vCPUs": 4,
+        "memoryMB": 8192
+    },
+    "Standard_D8ls_v5": {
+        "vCPUs": 8,
+        "memoryMB": 16384
+    },
+    "Standard_D16ls_v5": {
+        "vCPUs": 16,
+        "memoryMB": 32768
+    },
+    "Standard_D32ls_v5": {
+        "vCPUs": 32,
+        "memoryMB": 65536
+    },
+    "Standard_D48ls_v5": {
+        "vCPUs": 48,
+        "memoryMB": 98304
+    },
+    "Standard_D64ls_v5": {
+        "vCPUs": 64,
+        "memoryMB": 131072
+    },
+    "Standard_D96ls_v5": {
+        "vCPUs": 96,
+        "memoryMB": 196608
+    },
+    "Standard_D2lds_v5": {
+        "vCPUs": 2,
+        "memoryMB": 4096
+    },
+    "Standard_D4lds_v5": {
+        "vCPUs": 4,
+        "memoryMB": 8192
+    },
+    "Standard_D8lds_v5": {
+        "vCPUs": 8,
+        "memoryMB": 16384
+    },
+    "Standard_D16lds_v5": {
+        "vCPUs": 16,
+        "memoryMB": 32768
+    },
+    "Standard_D32lds_v5": {
+        "vCPUs": 32,
+        "memoryMB": 65536
+    },
+    "Standard_D48lds_v5": {
+        "vCPUs": 48,
+        "memoryMB": 98304
+    },
+    "Standard_D64lds_v5": {
+        "vCPUs": 64,
+        "memoryMB": 131072
+    },
+    "Standard_D96lds_v5": {
+        "vCPUs": 96,
+        "memoryMB": 196608
+    },
+    "Standard_B2ls_v2": {
+        "vCPUs": 2,
+        "memoryMB": 4096
+    },
+    "Standard_B2s_v2": {
+        "vCPUs": 2,
+        "memoryMB": 8192
+    },
+    "Standard_B2ts_v2": {
+        "vCPUs": 2,
+        "memoryMB": 1024
+    },
+    "Standard_B4ls_v2": {
+        "vCPUs": 4,
+        "memoryMB": 8192
+    },
+    "Standard_B4s_v2": {
+        "vCPUs": 4,
+        "memoryMB": 16384
+    },
+    "Standard_B8ls_v2": {
+        "vCPUs": 8,
+        "memoryMB": 16384
+    },
+    "Standard_B8s_v2": {
+        "vCPUs": 8,
+        "memoryMB": 32768
+    },
+    "Standard_B16ls_v2": {
+        "vCPUs": 16,
+        "memoryMB": 32768
+    },
+    "Standard_B16s_v2": {
+        "vCPUs": 16,
+        "memoryMB": 65536
+    },
+    "Standard_B32ls_v2": {
+        "vCPUs": 32,
+        "memoryMB": 65536
+    },
+    "Standard_B32s_v2": {
+        "vCPUs": 32,
+        "memoryMB": 131072
+    },
+    "Standard_HB120-16rs_v3": {
+        "vCPUs": 120,
+        "memoryMB": 466944
+    },
+    "Standard_HB120-32rs_v3": {
+        "vCPUs": 120,
+        "memoryMB": 466944
+    },
+    "Standard_HB120-64rs_v3": {
+        "vCPUs": 120,
+        "memoryMB": 466944
+    },
+    "Standard_HB120-96rs_v3": {
+        "vCPUs": 120,
+        "memoryMB": 466944
+    },
+    "Standard_HB120rs_v3": {
+        "vCPUs": 120,
+        "memoryMB": 466944
+    },
+    "Standard_E96ias_v4": {
+        "vCPUs": 96,
+        "memoryMB": 688128
+    },
+    "Standard_L8as_v3": {
+        "vCPUs": 8,
+        "memoryMB": 65536
+    },
+    "Standard_L16as_v3": {
+        "vCPUs": 16,
+        "memoryMB": 131072
+    },
+    "Standard_L32as_v3": {
+        "vCPUs": 32,
+        "memoryMB": 262144
+    },
+    "Standard_L48as_v3": {
+        "vCPUs": 48,
+        "memoryMB": 393216
+    },
+    "Standard_L64as_v3": {
+        "vCPUs": 64,
+        "memoryMB": 524288
+    },
+    "Standard_L80as_v3": {
+        "vCPUs": 80,
+        "memoryMB": 655360
+    },
+    "Standard_NV6ads_A10_v5": {
+        "vCPUs": 6,
+        "memoryMB": 56320
+    },
+    "Standard_NV12ads_A10_v5": {
+        "vCPUs": 12,
+        "memoryMB": 112640
+    },
+    "Standard_NV18ads_A10_v5": {
+        "vCPUs": 18,
+        "memoryMB": 225280
+    },
+    "Standard_NV36adms_A10_v5": {
+        "vCPUs": 36,
+        "memoryMB": 901120
+    },
+    "Standard_NV36ads_A10_v5": {
+        "vCPUs": 36,
+        "memoryMB": 450560
+    },
+    "Standard_NV72ads_A10_v5": {
+        "vCPUs": 72,
+        "memoryMB": 901120
+    },
+    "Standard_NV4as_v4": {
+        "vCPUs": 4,
+        "memoryMB": 14336
+    },
+    "Standard_NV8as_v4": {
+        "vCPUs": 8,
+        "memoryMB": 28672
+    },
+    "Standard_NV16as_v4": {
+        "vCPUs": 16,
+        "memoryMB": 57344
+    },
+    "Standard_NV32as_v4": {
+        "vCPUs": 32,
+        "memoryMB": 114688
+    },
+    "Standard_NC4as_T4_v3": {
+        "vCPUs": 4,
+        "memoryMB": 28672
+    },
+    "Standard_NC8as_T4_v3": {
+        "vCPUs": 8,
+        "memoryMB": 57344
+    },
+    "Standard_NC16as_T4_v3": {
+        "vCPUs": 16,
+        "memoryMB": 112640
+    },
+    "Standard_NC64as_T4_v3": {
+        "vCPUs": 64,
+        "memoryMB": 450560
+    },
+    "Standard_NC24ads_A100_v4": {
+        "vCPUs": 24,
+        "memoryMB": 225280
+    },
+    "Standard_NC48ads_A100_v4": {
+        "vCPUs": 48,
+        "memoryMB": 450560
+    },
+    "Standard_NC96ads_A100_v4": {
+        "vCPUs": 96,
+        "memoryMB": 901120
+    },
+    "Standard_NV6s_v2": {
+        "vCPUs": 6,
+        "memoryMB": 114688
+    },
+    "Standard_NV12s_v2": {
+        "vCPUs": 12,
+        "memoryMB": 229376
+    },
+    "Standard_NV24s_v2": {
+        "vCPUs": 24,
+        "memoryMB": 458752
+    },
+    "Standard_NV12s_v3": {
+        "vCPUs": 12,
+        "memoryMB": 114688
+    },
+    "Standard_NV24s_v3": {
+        "vCPUs": 24,
+        "memoryMB": 229376
+    },
+    "Standard_NV48s_v3": {
+        "vCPUs": 48,
+        "memoryMB": 458752
+    },
+    "Standard_E64i_v3": {
+        "vCPUs": 64,
+        "memoryMB": 442368
+    },
+    "Standard_E64is_v3": {
+        "vCPUs": 64,
+        "memoryMB": 442368
+    },
+    "Standard_D1": {
+        "vCPUs": 1,
+        "memoryMB": 3584
+    },
+    "Standard_D2": {
+        "vCPUs": 2,
+        "memoryMB": 7168
+    },
+    "Standard_D3": {
+        "vCPUs": 4,
+        "memoryMB": 14336
+    },
+    "Standard_D4": {
+        "vCPUs": 8,
+        "memoryMB": 28672
+    },
+    "Standard_D11": {
+        "vCPUs": 2,
+        "memoryMB": 14336
+    },
+    "Standard_D12": {
+        "vCPUs": 4,
+        "memoryMB": 28672
+    },
+    "Standard_D13": {
+        "vCPUs": 8,
+        "memoryMB": 57344
+    },
+    "Standard_D14": {
+        "vCPUs": 16,
+        "memoryMB": 114688
+    },
+    "Standard_DS1": {
+        "vCPUs": 1,
+        "memoryMB": 3584
+    },
+    "Standard_DS2": {
+        "vCPUs": 2,
+        "memoryMB": 7168
+    },
+    "Standard_DS3": {
+        "vCPUs": 4,
+        "memoryMB": 14336
+    },
+    "Standard_DS4": {
+        "vCPUs": 8,
+        "memoryMB": 28672
+    },
+    "Standard_DS11": {
+        "vCPUs": 2,
+        "memoryMB": 14336
+    },
+    "Standard_DS12": {
+        "vCPUs": 4,
+        "memoryMB": 28672
+    },
+    "Standard_DS13": {
+        "vCPUs": 8,
+        "memoryMB": 57344
+    },
+    "Standard_DS14": {
+        "vCPUs": 16,
+        "memoryMB": 114688
+    },
+    "Standard_NC6s_v3": {
+        "vCPUs": 6,
+        "memoryMB": 114688
+    },
+    "Standard_NC12s_v3": {
+        "vCPUs": 12,
+        "memoryMB": 229376
+    },
+    "Standard_NC24rs_v3": {
+        "vCPUs": 24,
+        "memoryMB": 458752
+    },
+    "Standard_NC24s_v3": {
+        "vCPUs": 24,
+        "memoryMB": 458752
+    },
+    "Standard_M208ms_v2": {
+        "vCPUs": 208,
+        "memoryMB": 5836800
+    },
+    "Standard_M208s_v2": {
+        "vCPUs": 208,
+        "memoryMB": 2918400
+    },
+    "Standard_M416-208s_v2": {
+        "vCPUs": 416,
+        "memoryMB": 5836800
+    },
+    "Standard_M416s_v2": {
+        "vCPUs": 416,
+        "memoryMB": 5836800
+    },
+    "Standard_M416-208ms_v2": {
+        "vCPUs": 416,
+        "memoryMB": 11673600
+    },
+    "Standard_M416ms_v2": {
+        "vCPUs": 416,
+        "memoryMB": 11673600
+    },
+    "Standard_M416s_8_v2": {
+        "vCPUs": 416,
+        "memoryMB": 7782400
+    },
+    "Standard_L8s_v2": {
+        "vCPUs": 8,
+        "memoryMB": 65536
+    },
+    "Standard_L16s_v2": {
+        "vCPUs": 16,
+        "memoryMB": 131072
+    },
+    "Standard_L32s_v2": {
+        "vCPUs": 32,
+        "memoryMB": 262144
+    },
+    "Standard_L48s_v2": {
+        "vCPUs": 48,
+        "memoryMB": 393216
+    },
+    "Standard_L64s_v2": {
+        "vCPUs": 64,
+        "memoryMB": 524288
+    },
+    "Standard_L80s_v2": {
+        "vCPUs": 80,
+        "memoryMB": 655360
+    },
+    "Standard_DC1s_v3": {
+        "vCPUs": 1,
+        "memoryMB": 8192
+    },
+    "Standard_DC2s_v3": {
+        "vCPUs": 2,
+        "memoryMB": 16384
+    },
+    "Standard_DC4s_v3": {
+        "vCPUs": 4,
+        "memoryMB": 32768
+    },
+    "Standard_DC8s_v3": {
+        "vCPUs": 8,
+        "memoryMB": 65536
+    },
+    "Standard_DC16s_v3": {
+        "vCPUs": 16,
+        "memoryMB": 131072
+    },
+    "Standard_DC24s_v3": {
+        "vCPUs": 24,
+        "memoryMB": 196608
+    },
+    "Standard_DC32s_v3": {
+        "vCPUs": 32,
+        "memoryMB": 262144
+    },
+    "Standard_DC48s_v3": {
+        "vCPUs": 48,
+        "memoryMB": 393216
+    },
+    "Standard_DC1ds_v3": {
+        "vCPUs": 1,
+        "memoryMB": 8192
+    },
+    "Standard_DC2ds_v3": {
+        "vCPUs": 2,
+        "memoryMB": 16384
+    },
+    "Standard_DC4ds_v3": {
+        "vCPUs": 4,
+        "memoryMB": 32768
+    },
+    "Standard_DC8ds_v3": {
+        "vCPUs": 8,
+        "memoryMB": 65536
+    },
+    "Standard_DC16ds_v3": {
+        "vCPUs": 16,
+        "memoryMB": 131072
+    },
+    "Standard_DC24ds_v3": {
+        "vCPUs": 24,
+        "memoryMB": 196608
+    },
+    "Standard_DC32ds_v3": {
+        "vCPUs": 32,
+        "memoryMB": 262144
+    },
+    "Standard_DC48ds_v3": {
+        "vCPUs": 48,
+        "memoryMB": 393216
+    },
+    "Standard_M12s_v3": {
+        "vCPUs": 12,
+        "memoryMB": 245760
+    },
+    "Standard_M24s_v3": {
+        "vCPUs": 24,
+        "memoryMB": 491520
+    },
+    "Standard_M48s_1_v3": {
+        "vCPUs": 48,
+        "memoryMB": 997376
+    },
+    "Standard_M96s_1_v3": {
+        "vCPUs": 96,
+        "memoryMB": 997376
+    },
+    "Standard_M96s_2_v3": {
+        "vCPUs": 96,
+        "memoryMB": 1992704
+    },
+    "Standard_M176s_3_v3": {
+        "vCPUs": 176,
+        "memoryMB": 2861056
+    },
+    "Standard_M176s_4_v3": {
+        "vCPUs": 176,
+        "memoryMB": 3985408
+    },
+    "Standard_M12ds_v3": {
+        "vCPUs": 12,
+        "memoryMB": 245760
+    },
+    "Standard_M24ds_v3": {
+        "vCPUs": 24,
+        "memoryMB": 491520
+    },
+    "Standard_M48ds_1_v3": {
+        "vCPUs": 48,
+        "memoryMB": 997376
+    },
+    "Standard_M96ds_1_v3": {
+        "vCPUs": 96,
+        "memoryMB": 997376
+    },
+    "Standard_M96ds_2_v3": {
+        "vCPUs": 96,
+        "memoryMB": 1992704
+    },
+    "Standard_M176ds_3_v3": {
+        "vCPUs": 176,
+        "memoryMB": 2861056
+    },
+    "Standard_M176ds_4_v3": {
+        "vCPUs": 176,
+        "memoryMB": 3985408
+    },
+    "Standard_M16bs_v3": {
+        "vCPUs": 16,
+        "memoryMB": 131072
+    },
+    "Standard_M32bs_v3": {
+        "vCPUs": 32,
+        "memoryMB": 262144
+    },
+    "Standard_M48bs_v3": {
+        "vCPUs": 48,
+        "memoryMB": 393216
+    },
+    "Standard_M64bs_v3": {
+        "vCPUs": 64,
+        "memoryMB": 524288
+    },
+    "Standard_M96bs_v3": {
+        "vCPUs": 96,
+        "memoryMB": 786432
+    },
+    "Standard_M128bs_v3": {
+        "vCPUs": 128,
+        "memoryMB": 1048576
+    },
+    "Standard_M176bs_v3": {
+        "vCPUs": 176,
+        "memoryMB": 1572864
+    },
+    "Standard_M16bds_v3": {
+        "vCPUs": 16,
+        "memoryMB": 131072
+    },
+    "Standard_M32bds_v3": {
+        "vCPUs": 32,
+        "memoryMB": 262144
+    },
+    "Standard_M48bds_v3": {
+        "vCPUs": 48,
+        "memoryMB": 393216
+    },
+    "Standard_M64bds_1_v3": {
+        "vCPUs": 64,
+        "memoryMB": 1430528
+    },
+    "Standard_M64bds_v3": {
+        "vCPUs": 64,
+        "memoryMB": 524288
+    },
+    "Standard_M96bds_2_v3": {
+        "vCPUs": 96,
+        "memoryMB": 1992704
+    },
+    "Standard_M96bds_v3": {
+        "vCPUs": 96,
+        "memoryMB": 786432
+    },
+    "Standard_M128bds_3_v3": {
+        "vCPUs": 128,
+        "memoryMB": 2861056
+    },
+    "Standard_M128bds_v3": {
+        "vCPUs": 128,
+        "memoryMB": 1048576
+    },
+    "Standard_M176bds_4_v3": {
+        "vCPUs": 176,
+        "memoryMB": 3985408
+    },
+    "Standard_M176bds_v3": {
+        "vCPUs": 176,
+        "memoryMB": 1572864
+    },
+    "Standard_HB120-16rs_v2": {
+        "vCPUs": 120,
+        "memoryMB": 466944
+    },
+    "Standard_HB120-32rs_v2": {
+        "vCPUs": 120,
+        "memoryMB": 466944
+    },
+    "Standard_HB120-64rs_v2": {
+        "vCPUs": 120,
+        "memoryMB": 466944
+    },
+    "Standard_HB120-96rs_v2": {
+        "vCPUs": 120,
+        "memoryMB": 466944
+    },
+    "Standard_HB120rs_v2": {
+        "vCPUs": 120,
+        "memoryMB": 466944
+    },
+    "Standard_M416ds_6_v3": {
+        "vCPUs": 416,
+        "memoryMB": 5836800
+    },
+    "Standard_M416ds_8_v3": {
+        "vCPUs": 416,
+        "memoryMB": 7782400
+    },
+    "Standard_M416s_6_v3": {
+        "vCPUs": 416,
+        "memoryMB": 5836800
+    },
+    "Standard_M416s_8_v3": {
+        "vCPUs": 416,
+        "memoryMB": 7782400
+    },
+    "Standard_M624ds_12_v3": {
+        "vCPUs": 624,
+        "memoryMB": 11673600
+    },
+    "Standard_M832ds_12_v3": {
+        "vCPUs": 832,
+        "memoryMB": 11673600
+    },
+    "Standard_M624s_12_v3": {
+        "vCPUs": 624,
+        "memoryMB": 11673600
+    },
+    "Standard_M832s_12_v3": {
+        "vCPUs": 832,
+        "memoryMB": 11673600
+    },
+    "Standard_M832ids_16_v3": {
+        "vCPUs": 832,
+        "memoryMB": 15564800
+    },
+    "Standard_M832is_16_v3": {
+        "vCPUs": 832,
+        "memoryMB": 15564800
+    },
+    "Standard_DC8_v2": {
+        "vCPUs": 8,
+        "memoryMB": 32768
+    },
+    "Standard_DC1s_v2": {
+        "vCPUs": 1,
+        "memoryMB": 4096
+    },
+    "Standard_DC2s_v2": {
+        "vCPUs": 2,
+        "memoryMB": 8192
+    },
+    "Standard_DC4s_v2": {
+        "vCPUs": 4,
+        "memoryMB": 16384
+    },
+    "Standard_ND40rs_v2": {
+        "vCPUs": 40,
+        "memoryMB": 688128
+    },
+    "Standard_HX176-24rs": {
+        "vCPUs": 176,
+        "memoryMB": 1441792
+    },
+    "Standard_HX176-48rs": {
+        "vCPUs": 176,
+        "memoryMB": 1441792
+    },
+    "Standard_HX176-96rs": {
+        "vCPUs": 176,
+        "memoryMB": 1441792
+    },
+    "Standard_HX176-144rs": {
+        "vCPUs": 176,
+        "memoryMB": 1441792
+    },
+    "Standard_HX176rs": {
+        "vCPUs": 176,
+        "memoryMB": 1441792
+    },
+    "Standard_HB176-24rs_v4": {
+        "vCPUs": 176,
+        "memoryMB": 786432
+    },
+    "Standard_HB176-48rs_v4": {
+        "vCPUs": 176,
+        "memoryMB": 786432
+    },
+    "Standard_HB176-96rs_v4": {
+        "vCPUs": 176,
+        "memoryMB": 786432
+    },
+    "Standard_HB176-144rs_v4": {
+        "vCPUs": 176,
+        "memoryMB": 786432
+    },
+    "Standard_HB176rs_v4": {
+        "vCPUs": 176,
+        "memoryMB": 786432
+    },
+    "Standard_FX4mds": {
+        "vCPUs": 4,
+        "memoryMB": 86016
+    },
+    "Standard_FX12mds": {
+        "vCPUs": 12,
+        "memoryMB": 258048
+    },
+    "Standard_FX24mds": {
+        "vCPUs": 24,
+        "memoryMB": 516096
+    },
+    "Standard_FX36mds": {
+        "vCPUs": 36,
+        "memoryMB": 774144
+    },
+    "Standard_FX48mds": {
+        "vCPUs": 48,
+        "memoryMB": 1032192
+    },
+    "Standard_NP10s": {
+        "vCPUs": 10,
+        "memoryMB": 172032
+    },
+    "Standard_NP20s": {
+        "vCPUs": 20,
+        "memoryMB": 344064
+    },
+    "Standard_NP40s": {
+        "vCPUs": 40,
+        "memoryMB": 688128
+    },
+    "Standard_NC40ads_H100_v5": {
+        "vCPUs": 40,
+        "memoryMB": 327680
+    },
+    "Standard_NC80adis_H100_v5": {
+        "vCPUs": 80,
+        "memoryMB": 655360
+    },
+    "Standard_NV6": {
+        "vCPUs": 6,
+        "memoryMB": 57344
+    },
+    "Standard_NV12": {
+        "vCPUs": 12,
+        "memoryMB": 114688
+    },
+    "Standard_NV24": {
+        "vCPUs": 24,
+        "memoryMB": 229376
+    },
+    "Standard_NV6_Promo": {
+        "vCPUs": 6,
+        "memoryMB": 57344
+    },
+    "Standard_NV12_Promo": {
+        "vCPUs": 12,
+        "memoryMB": 114688
+    },
+    "Standard_NV24_Promo": {
+        "vCPUs": 24,
+        "memoryMB": 229376
+    },
+    "Standard_G1": {
+        "vCPUs": 2,
+        "memoryMB": 28672
+    },
+    "Standard_G2": {
+        "vCPUs": 4,
+        "memoryMB": 57344
+    },
+    "Standard_G3": {
+        "vCPUs": 8,
+        "memoryMB": 114688
+    },
+    "Standard_G4": {
+        "vCPUs": 16,
+        "memoryMB": 229376
+    },
+    "Standard_G5": {
+        "vCPUs": 32,
+        "memoryMB": 458752
+    },
+    "Standard_GS1": {
+        "vCPUs": 2,
+        "memoryMB": 28672
+    },
+    "Standard_GS2": {
+        "vCPUs": 4,
+        "memoryMB": 57344
+    },
+    "Standard_GS3": {
+        "vCPUs": 8,
+        "memoryMB": 114688
+    },
+    "Standard_GS4": {
+        "vCPUs": 16,
+        "memoryMB": 229376
+    },
+    "Standard_GS4-4": {
+        "vCPUs": 16,
+        "memoryMB": 229376
+    },
+    "Standard_GS4-8": {
+        "vCPUs": 16,
+        "memoryMB": 229376
+    },
+    "Standard_GS5": {
+        "vCPUs": 32,
+        "memoryMB": 458752
+    },
+    "Standard_GS5-8": {
+        "vCPUs": 32,
+        "memoryMB": 458752
+    },
+    "Standard_GS5-16": {
+        "vCPUs": 32,
+        "memoryMB": 458752
+    },
+    "Standard_L4s": {
+        "vCPUs": 4,
+        "memoryMB": 32768
+    },
+    "Standard_L8s": {
+        "vCPUs": 8,
+        "memoryMB": 65536
+    },
+    "Standard_L16s": {
+        "vCPUs": 16,
+        "memoryMB": 131072
+    },
+    "Standard_L32s": {
+        "vCPUs": 32,
+        "memoryMB": 262144
+    },
+    "Standard_ND96amsr_A100_v4": {
+        "vCPUs": 96,
+        "memoryMB": 1843200
+    },
+    "Standard_NC6": {
+        "vCPUs": 6,
+        "memoryMB": 57344
+    },
+    "Standard_NC12": {
+        "vCPUs": 12,
+        "memoryMB": 114688
+    },
+    "Standard_NC24": {
+        "vCPUs": 24,
+        "memoryMB": 229376
+    },
+    "Standard_NC24r": {
+        "vCPUs": 24,
+        "memoryMB": 229376
+    },
+    "Standard_NC6_Promo": {
+        "vCPUs": 6,
+        "memoryMB": 57344
+    },
+    "Standard_NC12_Promo": {
+        "vCPUs": 12,
+        "memoryMB": 114688
+    },
+    "Standard_NC24_Promo": {
+        "vCPUs": 24,
+        "memoryMB": 229376
+    },
+    "Standard_NC24r_Promo": {
+        "vCPUs": 24,
+        "memoryMB": 229376
+    },
+    "Standard_ND96isr_H100_v5": {
+        "vCPUs": 96,
+        "memoryMB": 1945600
+    },
+    "Standard_PB6s": {
+        "vCPUs": 6,
+        "memoryMB": 114688
+    },
+    "Standard_HB60-15rs": {
+        "vCPUs": 15,
+        "memoryMB": 233472
+    },
+    "Standard_HB60-30rs": {
+        "vCPUs": 30,
+        "memoryMB": 233472
+    },
+    "Standard_HB60-45rs": {
+        "vCPUs": 45,
+        "memoryMB": 233472
+    },
+    "Standard_HB60rs": {
+        "vCPUs": 60,
+        "memoryMB": 233472
+    },
+    "Standard_ND96asr_v4": {
+        "vCPUs": 96,
+        "memoryMB": 921600
+    },
+    "Standard_ND40s_v3": {
+        "vCPUs": 40,
+        "memoryMB": 688128
+    },
+    "Standard_NC8ads_A10_v4": {
+        "vCPUs": 8,
+        "memoryMB": 102400
+    },
+    "Standard_NC16ads_A10_v4": {
+        "vCPUs": 16,
+        "memoryMB": 204800
+    },
+    "Standard_NC32ads_A10_v4": {
+        "vCPUs": 32,
+        "memoryMB": 409600
+    }
+}
