@@ -74,12 +74,12 @@ def get_vm_metrics(monitor_client: MonitorManagementClient,
     precentage_cpu_avg = (precentage_cpu_min + precentage_cpu_max) / 2
 
     metrics_result = {
-        "CPU": total_vcpus,
+        "CPU": f"{total_vcpus} cores",
         "CPU_min": f"{precentage_cpu_min:.2f}% ({cpu_min:.2f} cores)",
         "CPU_max": f"{precentage_cpu_max:.2f}% ({cpu_max:.2f} cores)",
         "CPU_avg": f"{precentage_cpu_avg:.2f}% ({(cpu_max + cpu_min) / 2:.2f} cores)",
 
-        "Mem": total_memory_gb,
+        "Mem": f"{total_memory_gb} GB",
         "Mem_min": f"{available_memo_min:.2f}% ({memo_min:.2f} GB)",
         "Mem_max": f"{available_memo_max:.2f}% ({memo_max:.2f} GB)",
         "Mem_avg": f"{available_memo_avg:.2f}% ({(memo_max + memo_min) / 2:.2f} GB)",
